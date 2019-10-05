@@ -10,3 +10,6 @@ Three Modes:
 <li>AI vs AI (spectator mode)</li>
 <li>Player vs Player</li>
 </ul>
+
+![Menu screenshot](https://github.com/Automatik/Pong-Java/Imgs/PongScreenshot2.png)
+![Gameplay screenshot](https://github.com/Automatik/Pong-Java/Imgs/PongScreenshot1.png)
