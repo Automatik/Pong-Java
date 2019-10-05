@@ -11,5 +11,5 @@ Three Modes:
 <li>Player vs Player</li>
 </ul>
 
-![Menu screenshot](https://github.com/Automatik/Pong-Java/Imgs/PongScreenshot2.png)
-![Gameplay screenshot](https://github.com/Automatik/Pong-Java/Imgs/PongScreenshot1.png)
+![Menu screenshot](/Imgs/PongScreenshot2.png)
+![Gameplay screenshot](/Imgs/PongScreenshot1.png)
